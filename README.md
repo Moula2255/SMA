@@ -1,5 +1,5 @@
 # SMA
-This is my main project
+this project is for school management system
 <br>
 author - Shaik Moula
 
